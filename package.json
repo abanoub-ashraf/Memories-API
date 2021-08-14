@@ -11,7 +11,6 @@
     "author": "Abanoub Ashraf",
     "license": "ISC",
     "dependencies": {
-        "body-parser": "^1.19.0",
         "colors": "^1.4.0",
         "cors": "^2.8.5",
         "dotenv": "^10.0.0",
